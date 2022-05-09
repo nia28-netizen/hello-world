@@ -2,3 +2,4 @@
 My first repository on GitHub
 mkdir <myfirstrepo>
 cd <myfirstrepo>
+git init
